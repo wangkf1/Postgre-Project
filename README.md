@@ -3,7 +3,9 @@
 **Project from Database systems course in PostgresSQL and C++ library libpqxx**
 -----------
 **ECS165A Project, PostgreSQL and C++ library, libqxx**
+
 Kevin Wang 
+
 Jacob Miller 
 
 ###Table of Contents:
